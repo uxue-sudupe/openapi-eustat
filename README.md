@@ -2,6 +2,8 @@
 
 Este repositorio contiene la documentación técnica de la API conforme al estándar **OpenAPI 3.0**, lo que facilita su integración, comprensión y mantenimiento.
 
+👉 [https://uxue-sudupe.github.io/openapi-eustat](https://uxue-sudupe.github.io/openapi-eustat)
+
 ##  Especificación OpenAPI
 
 La definición de la API se encuentra en el archivo [`descriptor.yaml`](./descriptor.yaml), siguiendo el formato estructurado del estándar OpenAPI. Esta especificación describe:
@@ -15,8 +17,6 @@ La definición de la API se encuentra en el archivo [`descriptor.yaml`](./descri
 ##  Visor Swagger
 
 Para facilitar la exploración interactiva de la API, se incluye un visor Swagger UI, que permite visualizar y probar los endpoints directamente desde el navegador.
-
-###  Acceso al visor Swagger
 
 Accede al visor Swagger desde el siguiente enlace:
 
