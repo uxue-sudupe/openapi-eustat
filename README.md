@@ -1,24 +1,25 @@
+#  Documentación de la API de Eustat
 
-# Documentación de la API de Eustat
+Este repositorio contiene la documentación técnica de la API conforme al estándar **OpenAPI 3.0**, lo que facilita su integración, comprensión y mantenimiento.
 
-Este repositorio contiene la documentación técnica de la API conforme al estándar OpenAPI 3.0, lo que facilita su integración, comprensión y mantenimiento
+##  Especificación OpenAPI
 
-# 📄 Especificación OpenAPI
-La definición de la API se encuentra en el archivo openapi.yaml, siguiendo el formato estructurado del estándar OpenAPI. Esta especificación describe:
+La definición de la API se encuentra en el archivo [`openapi.yaml`](./openapi.yaml), siguiendo el formato estructurado del estándar OpenAPI. Esta especificación describe:
 
- - Endpoints disponibles
+- Endpoints disponibles  
+- Métodos HTTP permitidos  
+- Parámetros de entrada y salida  
+- Códigos de respuesta  
+- Ejemplos de uso
 
- - Métodos HTTP permitidos
+##  Visor Swagger
 
- - Parámetros de entrada y salida
-
- - Códigos de respuesta
-
- - Ejemplos de uso
-
-# 🚀 Visor Swagger
 Para facilitar la exploración interactiva de la API, se incluye un visor Swagger UI, que permite visualizar y probar los endpoints directamente desde el navegador.
 
-# Acceso al visor Swagger
+###  Acceso al visor Swagger
 
-Se accede al visor Swagger en:
+Accede al visor Swagger desde el siguiente enlace:
+
+👉 [https://uxue-sudupe.github.io/openapi-eustat/open_api.html](https://uxue-sudupe.github.io/openapi-eustat/open_api.html)
+
+
