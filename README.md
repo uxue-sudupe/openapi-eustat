@@ -4,7 +4,7 @@ Este repositorio contiene la documentación técnica de la API conforme al está
 
 ##  Especificación OpenAPI
 
-La definición de la API se encuentra en el archivo [`openapi.yaml`](./openapi.yaml), siguiendo el formato estructurado del estándar OpenAPI. Esta especificación describe:
+La definición de la API se encuentra en el archivo [`descriptor.yaml`](./descriptor.yaml), siguiendo el formato estructurado del estándar OpenAPI. Esta especificación describe:
 
 - Endpoints disponibles  
 - Métodos HTTP permitidos  
